@@ -1,15 +1,17 @@
-table,th,td{
-    border: 1px solid black;
+.primero{
+    border: 2px solid goldenrod;
     border-collapse: collapse;
-    background-color: ;
-    }
+}
+
+.segundo{
+    border: 2px solid green
+}
+
+th{
+    border: 1px solid red;
+    border-collapse: collapse;
+}
 
 table{
     width: 100%;
-}
-td, th{
-    border: 2px solid green;
-}
-body{
-    background: white;
 }
